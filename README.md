@@ -2,10 +2,12 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-  Hi there 👋
 </div>
 
-<div id="badges">
+---
+
+### 🤓 My name is Anja 
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anja-miscevic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
