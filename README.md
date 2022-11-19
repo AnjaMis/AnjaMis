@@ -16,7 +16,7 @@
 
 - 💻 Third year student at Haaga-Helia University of Applied Sciences
 - 💪🏻 Working towards becoming a Fullstack Engineer
-- 💫 Passionate about Mobile Development
+- 💫 Passionate about Agile Technologies
 - 📚 Focused on learning Backend Technologies atm
 
 ---
