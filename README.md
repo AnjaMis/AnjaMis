@@ -1,24 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Anja 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
-                                                   
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anja-miscevic/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+                                                  
+## About Me
 
---- 
+- 🎯 **Project Manager at [Axone](https://axone.xyz/)**: Leading projects at Axone, the orchestration layer for AI. Axone is a universal protocol designed for collaborative AI workflow management, enabling seamless connection, sharing, and monetization of resources in the AI stack.
+- 🌱 **Passionate about Agile**: Constantly exploring and implementing agile methodologies to enhance team collaboration and efficiency.
+- 🌟 **Continuous Learner**: Always on the lookout for new tools, practices, and ideas to drive continuous improvement in project management and software development.
 
-### 🙋🏼‍♀️ About me
+## Connect with Me
 
-- 💻 Student at Haaga-Helia University of Applied Sciences
-- 🏢 Frontend Developer and Agile Coach at OKP4
-- 💫 Passionate about Agile Technologies
+- **[LinkedIn](linkedin.com/in/anja-miscevic/)**: Let's network and collaborate. I'm always open to discussing agile practices, project management tips, and new opportunities.
 
----
+Feel free to explore my profile and reach out if you have any questions or ideas. I'm excited to connect with fellow enthusiasts and professionals. Happy coding!
+
 
 ### 🛠 Languages and Tools :
 
